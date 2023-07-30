@@ -23,7 +23,8 @@ h1{
     color: orangered;
     position: absolute;
     left:5px;
-    font-size: 40px;
+    width:20px;
+    font-size: 23px;
 }
 .content{
     height:570px;
