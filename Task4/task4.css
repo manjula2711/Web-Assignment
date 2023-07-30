@@ -1,0 +1,43 @@
+html,body{
+    height:100%;
+    width:100%;
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+   height:80px; 
+   background-color: rgb(253, 226, 231);
+   display: flex;
+   align-items: center;
+   position: sticky;
+   z-index: 1;
+   top:0px;
+   justify-content: space-evenly;
+}
+
+li{
+    list-style: none;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    color: orangered;
+    position: absolute;
+    left:5px;
+    width:23px;
+    font-size: 25px;
+}
+img{
+    position: relative;
+    top:30px;
+    left:650px;
+    width:200px;
+    height:200px;
+}
+.main{
+    font-size: 20px;
+    position: relative;
+    top:70px;
+}
